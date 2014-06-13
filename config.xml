@@ -5,13 +5,13 @@
 		version = "1.0.0"
 		versionCode = "1">
 
-    <name>APPLICATION NAME</name>
+    <name>RAINBL</name>
 
     <description>
-        APPLICATION DESCRIPTION
+        PROCESSING.JS AND PHONEGAP
     </description>
 
-    <author href="http://venerons.github.io" email="veneronslaboratories@gmail.com">Daniele Veneroni</author>
+    <author href="" email="michael@dragondev.com">Michael Williams</author>
         
     <!-- ICONS -->
         
